@@ -1,5 +1,5 @@
 # DeepLearning-Project-2-Convolutional-Neural-Networks
-In this project, we aim for developing a CNN model to perform the classification task of a composite dataset (combination of CIFAR-10 and MNIST; Link to the [dataset](https://drive.google.com/file/d/1AjW9I4YJKIwoqbkrkophr0E2O_8gDerj/view?usp=sharing).) 
+In this project, we aim for developing a CNN model to perform the classification task of a composite [dataset](https://drive.google.com/file/d/1AjW9I4YJKIwoqbkrkophr0E2O_8gDerj/view?usp=sharing) (combination of CIFAR-10 and MNIST).
 
 <img src="results/CNN-Architecture.png" alt="Architecture Diagram" width="50%"/>
 <img src="results/Dataset.png" alt="Architecture Diagram" width="50%"/>
